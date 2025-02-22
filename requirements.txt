@@ -1,4 +1,3 @@
-csv
 fastapi
 pydantic
 uvicorn
